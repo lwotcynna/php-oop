@@ -1,0 +1,6 @@
+Class = Pembungkus yang di dalam nya ada method/function dan property/variable
+Method = Function
+Property = Variable
+Object (Instansiasi) setelah class dibuat
+
+
